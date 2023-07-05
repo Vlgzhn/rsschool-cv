@@ -51,7 +51,7 @@ body {
     filter: grayscale(100%);
     border: 5px;
     border-style: solid;
-    border-color: white;
+    border-color: darkgray;
     margin: 30px;
 }
 
